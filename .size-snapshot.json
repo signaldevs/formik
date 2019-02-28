@@ -9,12 +9,12 @@
     "minified": 53440,
     "gzipped": 15938
   },
-  "./dist/formik.cjs.production.js": {
+  "./dist/signaldevs/formik.cjs.production.js": {
     "bundled": 43564,
     "minified": 21946,
     "gzipped": 5491
   },
-  "./dist/formik.cjs.development.js": {
+  "./dist/signaldevs/formik.cjs.development.js": {
     "bundled": 44452,
     "minified": 22829,
     "gzipped": 5829
