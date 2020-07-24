@@ -1,3 +1,9 @@
+# **Deprecated**
+
+### Please use `formik@^2.X` instead
+
+This repo is commission for deletion.
+
 ![](https://user-images.githubusercontent.com/4060187/27243721-3b5219d0-52b1-11e7-96f1-dae8391a3ef6.png)
 
 [![CircleCI](https://circleci.com/gh/jaredpalmer/formik.svg?style=svg)](https://circleci.com/gh/jaredpalmer/formik)
